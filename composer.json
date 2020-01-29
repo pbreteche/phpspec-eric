@@ -1,0 +1,13 @@
+{
+    "name": "pierre/test-eric",
+    "require-dev": {
+        "phpspec/phpspec": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "Pierre Bretéché",
+            "email": "pbreteche@dawan.fr"
+        }
+    ],
+    "require": {}
+}
